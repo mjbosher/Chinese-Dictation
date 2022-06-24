@@ -1,0 +1,4 @@
+random_words=True
+timeout=2
+language=zh
+repeat_word=False
